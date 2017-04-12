@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyBaby</string>
+    <string name="title">爱宝贝</string>
+    <string name="state">健康</string>
+    <string name="informatiom_1">宝宝身体指标正常</string>
+    <string name="notice_1">宝贝身体健康 请继续保持</string>
+    <string name="list_title_rate">心率120次每分</string>
+    <string name="list_time_rate">4月1日17：44</string>
+    <string name="list_title_tem">体温37.0度</string>
+    <string name="list_time_tem">4月1日17：44</string>
+    <string name="list_title_record">宝贝连续10天状态健康</string>
+    <string name="list_time_record">4月1日17：44</string>
+    <string name="rate_title">心率</string>
+    <string name="rate_rate">120</string>
+    <string name="rate_unit">次/分</string>
+    <string name="tem_title">体温</string>
+    <string name="tem_tem">37.5</string>
+    <string name="tem_unit">摄氏度</string>
+</resources>
